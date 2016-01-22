@@ -11,10 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
+Route::get('/', ['as' => 'index', 'uses' => 'PagesController@getLocation']);
+Route::post('geolocate', ['as' => 'geolocate', 'uses' => 'PagesController@geolocateSubmit']);
+Route::get('/result', ['as' => 'result', 'uses' => 'PagesController@displayResult']);
 /*
 |--------------------------------------------------------------------------
 | Application Routes
