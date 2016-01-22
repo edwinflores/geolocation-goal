@@ -156,7 +156,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
-        Toin0u\Geocoder\GeocoderServiceProvider::class,
+//        Toin0u\Geocoder\GeocoderServiceProvider::class,
 
     ],
 

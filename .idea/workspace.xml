@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044e9bea-75dd-42ad-bdc4-4c7e0fa7702b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
     </list>
     <ignored path="geolocation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="519">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
               <folding />
             </state>
@@ -109,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/app.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2055" max-vertical-offset="3240">
-              <caret line="146" column="65" selection-start-line="146" selection-start-column="65" selection-end-line="146" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.72727275" vertical-offset="2025" max-vertical-offset="3240">
+              <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,7 +130,6 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/.env.php" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/storage/logs/laravel.log" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/assets/css/style.css" />
@@ -140,6 +139,7 @@
         <option value="$PROJECT_DIR$/public/assets/css/text.css" />
         <option value="$PROJECT_DIR$/resources/views/result.blade.php" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/config/app.php" />
       </list>
     </option>
   </component>
@@ -238,7 +238,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value=".env&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/.env&#10;laravel&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/storage/logs/laravel.log&#10;lara&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/storage/logs/laravel.log&#10;app.&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/config/app.php&#10;route&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/app/Http/routes.php&#10;app.ph&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/config/app.php&#10;composer.json&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/composer.json" />
+    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/config/app.php&#10;.env&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/.env&#10;laravel&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/storage/logs/laravel.log&#10;lara&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/storage/logs/laravel.log&#10;app.&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/config/app.php&#10;route&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/app/Http/routes.php&#10;app.ph&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/config/app.php&#10;composer.json&#9;FILE&#9;file:///Users/MAC076/Sites/Laravel/geolocation/composer.json" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
@@ -485,26 +485,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="30" max-vertical-offset="975">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34854773" vertical-offset="4617" max-vertical-offset="11010">
           <caret line="330" column="13" selection-start-line="330" selection-start-column="13" selection-end-line="330" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2055" max-vertical-offset="3240">
-          <caret line="146" column="65" selection-start-line="146" selection-start-column="65" selection-end-line="146" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,6 +569,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="519">
           <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="30" max-vertical-offset="975">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72727275" vertical-offset="2025" max-vertical-offset="3240">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
           <folding />
         </state>
       </provider>
